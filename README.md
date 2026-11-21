@@ -1,16 +1,30 @@
-## Hi there 👋
+<img src="banner.svg" alt="Witiko Melle-Wladika – Designing Robust Industrial Energy Systems" width="100%">
 
-<!--
-**witikowladika/witikowladika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Witiko 👋
 
-Here are some ideas to get you started:
+I design **robust, practical energy systems for industry**. My background is **energy, utilities and infrastructure**, with **10 years of hands-on experience** in heat pumps, ventilation systems, chillers and the plants around them: from design and commissioning to day-to-day operation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside that, I'm doing a **PhD at CTU Prague** on energy system simulation and investment planning, focused on decisions that hold up under uncertainty: *what to build, and when*.
+
+## What I work on
+
+- ⚙️ **Industrial energy & utilities**: heat pumps, chillers, steam and heating networks, ventilation
+- 🧱 **Robust system design**: sound sizing, reliable operation, solutions that work in the real plant
+- 📈 **Investment planning under uncertainty**: simulation of industrial heat supply, including the path to lower emissions
+- 🛠️ **Tools**: Python, simulation models, and small apps that make engineering work easier
+
+## Selected projects
+
+| Project | What it is |
+|---|---|
+| [archivio](https://github.com/witikowladika/archivio) | Mobile app concept that turns photos of facades and objects into stylized line drawings |
+| [tcg-card-layer-generator](https://github.com/witikowladika/tcg-card-layer-generator) | Generator for layered trading-card artwork |
+
+## Share & learn
+
+I explain how real plants are designed and sized, with calculations and practical tips, on **YouTube** and **Instagram** under *energy.engineering.excellence*.
+
+[![YouTube](https://img.shields.io/badge/YouTube-energy.engineering.excellence-1f5f6b?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@energy.engineering.excellence)
+[![Instagram](https://img.shields.io/badge/Instagram-energy.engineering.excellence-1f5f6b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/energy.engineering.excellence/)
+
+<sub>Outside of engineering: volunteering in civil protection and fire safety, and photography.</sub>
