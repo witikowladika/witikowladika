@@ -13,13 +13,6 @@ Alongside that, I'm doing a **PhD at CTU Prague** on energy system simulation an
 - 📈 **Investment planning under uncertainty**: simulation of industrial heat supply, including the path to lower emissions
 - 🛠️ **Tools**: Python, simulation models, and small apps that make engineering work easier
 
-## Selected projects
-
-| Project | What it is |
-|---|---|
-| [archivio](https://github.com/witikowladika/archivio) | Mobile app concept that turns photos of facades and objects into stylized line drawings |
-| [tcg-card-layer-generator](https://github.com/witikowladika/tcg-card-layer-generator) | Generator for layered trading-card artwork |
-
 ## Share & learn
 
 I explain how real plants are designed and sized, with calculations and practical tips, on **YouTube** and **Instagram** under *energy.engineering.excellence*.
