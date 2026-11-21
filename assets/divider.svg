@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img">
+<style>
+:root{--bg:#f4f5f2;--ink:#162a24;--acc:#1f5f6b;--warm:#b5603a;--card:#ffffff;--onacc:#ffffff;--b1:#cfe3df;--b2:#e3dbef;--b3:#f3e3d3}
+@media (prefers-color-scheme: dark){:root{--bg:#0e1816;--ink:#e9f0ed;--acc:#6fc0cc;--warm:#e39367;--card:#16262a;--onacc:#0e1816;--b1:#17413f;--b2:#2a2347;--b3:#3d2a1e}}
+.bg{fill:var(--bg)}.ink{fill:var(--ink)}.mute{fill:var(--ink);fill-opacity:.7}.acc{fill:var(--acc)}.warm{fill:var(--warm)}
+.card{fill:var(--card);fill-opacity:.8}.cardl{fill:var(--card);fill-opacity:.55}.onacc{fill:var(--onacc)}
+.sa{stroke:var(--acc)}.sw{stroke:var(--warm)}.si{stroke:var(--ink)}.edge{stroke:var(--ink);stroke-opacity:.12}
+.f0{fill:none}
+text{font-family:Inter,'Segoe UI',Arial,sans-serif}text.serif{font-family:'EB Garamond',Garamond,Georgia,serif}
+</style>
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" style="stop-color:var(--acc);stop-opacity:0"/><stop offset=".5" style="stop-color:var(--acc);stop-opacity:.7"/><stop offset="1" style="stop-color:var(--acc);stop-opacity:0"/></linearGradient></defs>
+<rect x="40" y="11" width="1120" height="2" fill="url(#l)"/>
+<circle cy="12" r="4" class="warm"><animate attributeName="cx" values="40;1160;40" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/></circle>
+</svg>

@@ -1,4 +1,10 @@
-<img src="banner.svg" alt="Witiko Melle-Wladika – Designing Robust Industrial Energy Systems" width="100%">
+<div align="center">
+  <img src="assets/banner.svg" alt="Witiko Melle-Wladika: Designing Robust Industrial Energy Systems" width="100%">
+  <br>
+  <img src="assets/tagline.svg" alt="Heat pumps, chillers and ventilation: sized right. Utilities and infrastructure that keep running. Investment decisions that hold up under uncertainty." width="70%">
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## Hi, I'm Witiko 👋
 
@@ -6,18 +12,36 @@ I design **robust, practical energy systems for industry**. My background is **e
 
 Alongside that, I'm doing a **PhD at CTU Prague** on energy system simulation and investment planning, focused on decisions that hold up under uncertainty: *what to build, and when*.
 
-## What I work on
+<img src="assets/divider.svg" alt="" width="100%">
 
-- ⚙️ **Industrial energy & utilities**: heat pumps, chillers, steam and heating networks, ventilation
-- 🧱 **Robust system design**: sound sizing, reliable operation, solutions that work in the real plant
-- 📈 **Investment planning under uncertainty**: simulation of industrial heat supply, including the path to lower emissions
-- 🛠️ **Tools**: Python, simulation models, and small apps that make engineering work easier
+## What I do
 
-## Share & learn
+<div align="center">
+  <img src="assets/expertise.svg" alt="Expertise: heat pumps and chillers, ventilation and HVAC, utilities and networks, simulation and planning, robust design, knowledge sharing" width="100%">
+</div>
 
-I explain how real plants are designed and sized, with calculations and practical tips, on **YouTube** and **Instagram** under *energy.engineering.excellence*.
+<img src="assets/divider.svg" alt="" width="100%">
 
-[![YouTube](https://img.shields.io/badge/YouTube-energy.engineering.excellence-1f5f6b?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@energy.engineering.excellence)
-[![Instagram](https://img.shields.io/badge/Instagram-energy.engineering.excellence-1f5f6b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/energy.engineering.excellence/)
+## How I design
 
-<sub>Outside of engineering: volunteering in civil protection and fire safety, and photography.</sub>
+- **Design for the worst day, not the average one.** Plants earn their keep when conditions are rough.
+- **Make assumptions explicit.** A sizing or a model is only as good as what it assumes.
+- **Prefer the simple solution that keeps running.** Maintainable beats clever.
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## Currently
+
+- 🎓 Researching investment planning for industrial heat supply under uncertainty
+- 🎥 Explaining how real plants are designed and sized, with calculations and practical tips
+
+## Share & connect
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-energy.engineering.excellence-1f5f6b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@energy.engineering.excellence)
+[![Instagram](https://img.shields.io/badge/Instagram-energy.engineering.excellence-1f5f6b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/energy.engineering.excellence/)
+
+</div>
+
+<img src="assets/footer.svg" alt="" width="100%">
